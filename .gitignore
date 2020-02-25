@@ -1,0 +1,41 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+
+# npm/yarn
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+package-lock.json
+
+# env
+.env
+
+# logs
+*.log
+*.csv
+
+# editor
+*.sw[po]
+
+# cli
+cli.js
+
+TODO
+
+/media
+/upload
+
+# node-localstorage
+/storage
+
+.DS_Store
